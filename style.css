@@ -1,0 +1,23 @@
+.FormList
+{
+    width: 360px;
+	margin: 0 auto;
+    margin-top: 20px;
+}
+
+.Result
+{
+    width: 360px;
+    margin: 0 auto;
+    color: red;
+}
+
+.TopIndent
+{
+    margin-top: 20px;
+}
+
+.ColorBlack
+{
+    color: black;
+}

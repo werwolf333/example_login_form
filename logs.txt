@@ -1,0 +1,32 @@
+﻿
+валидация прошла
+name=1
+surname=2
+tel=25
+email=@
+password=1
+password_repeat=1
+
+валидация прошла
+name=1
+surname=2
+tel=+37529
+email=@
+password=1
+password_repeat=1
+
+валидация прошла
+name=1
+surname=2
+tel=+37529
+email=@
+password=1
+password_repeat=1
+
+валидация прошла
+name=1
+surname=2
+tel=+37529
+email=@
+password=1
+password_repeat=1
